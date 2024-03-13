@@ -128,7 +128,7 @@ export default function ViewFiles() {
     <div className="flex justify-center bg-blue-100 mb-12">
 
       <div className="px-4" style={{ maxWidth: "1600px" }}>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4 pt-2">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
           {nfts.map((nft, i) => (
 
             <div key={i} className="shadow rounded-xl overflow-hidden border-2 border-white-500">
