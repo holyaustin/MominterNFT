@@ -1,6 +1,6 @@
 # Mominter : : Decentralized Video Moment Minter for Nebula Testnet Blockchain
 
-A DApp to allow the user(host) to mint moments as NFT using the contracts deployed on Mantle Hyperscale performance. On Mantle chain, we experience high throughput with unrivaled security with Ethereum's roll-up technology.
+A DApp to allow the user(host) to mint moments as NFT using the contracts deployed on Nebula testnet. On Nebula testnet, we experience high throughput with unrivaled security with Ethereum's roll-up technology.
 
 ![Mominter](https://bafkreibsvdrhg4xrmdeujrz33smda7rziayuzpxb5cggcp4o5633sn4c2a.ipfs.nftstorage.link/)
 
@@ -26,12 +26,12 @@ The smart contract uses ERC-721 specification to hold metadata URI, ethers.js wa
 
 ## Live DApp hosted on
 
-Live Dapp on Vercel: - <https://mominter4-mantle.vercel.app//>
+Live Dapp on Vercel: - <https://mominter-nft.vercel.app/>
 
 Deployed to Polygon Chain:
-  Mantle Testnet deployed Address = "0x085446624cA30579532B12B7EAeD211B1E6Ac1de"
+  Mantle Testnet deployed Address = "0xe078fe7A93017F8e18c1C52E79632d0B94c56c26"
 
-  <https://explorer.testnet.mantle.xyz/address/0x085446624cA30579532B12B7EAeD211B1E6Ac1de>
+  <https://testnet.u2uscan.xyz/address/0xe078fe7A93017F8e18c1C52E79632d0B94c56c26>
 
  Youtube video link: <https://youtu.be/kZvxCGMPci8>
 
@@ -40,7 +40,7 @@ Deployed to Polygon Chain:
 First, run the development server:
 
 ```text
-clone the repo https://github.com/holyaustin/Mominter4Mantle
+clone the repo https://github.com/holyaustin/MominterNFT.git
 # next is to 
 npm install
 # then
@@ -57,7 +57,7 @@ Try running some of the following tasks:
 
 Fork this repo using
 
-git clone <https://github.com/holyaustin/Mominter.git>
+git clone <https://github.com/holyaustin/MominterNFT.git>
 
 cd soldier-ant-colony
 
